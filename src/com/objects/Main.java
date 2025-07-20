@@ -42,7 +42,7 @@ public class Main {
         // Check that object was created
         System.out.println(test1);
 
-        // Using method clone() creates a copy of an object
+        // Using method clone() to create a copy of an object
         Test test2 = (Test) test.clone();
 
         // Check that object was created
